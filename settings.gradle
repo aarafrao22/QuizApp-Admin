@@ -1,0 +1,2 @@
+rootProject.name='MCQuiz Admin'
+include ':app'
